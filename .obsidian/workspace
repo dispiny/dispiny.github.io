@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "fd1f4679a8030772",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0530ec6d4de8e3a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2021-09-01-TIL.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d34d767cc3bd3293",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ef3af2d0d8e8285",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c7fd994ed6366a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "35456f3b434bc090",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ad3a6ff44a993f4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "81978216b68e7053",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95b61a1d5bfe0478",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2021-09-01-TIL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e0530ec6d4de8e3a",
+  "lastOpenFiles": [
+    "_posts/2021-09-01-TIL.md",
+    "_notes/Public/Welcome to the garden.md",
+    "pages/index.md",
+    "pages/posts.md",
+    "pages/notes.md",
+    "_posts/2020-03-01-features.md",
+    "_posts/2020-03-01-how-to.md",
+    "_notes/Public/Markdown Rendered.md",
+    "_notes/Public/Hidden Note.md"
+  ]
+}
